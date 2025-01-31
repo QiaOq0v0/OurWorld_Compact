@@ -16,13 +16,11 @@ FUFU自制兼容mod
 
 ---
 
-## 2025-01-25 咖啡相关
-### Create（机械动力）与 Farmersrespite（农夫暇事）中各种【咖啡】【咖啡豆】的兼容
-- 新增流体：【Coffee Americano Liquid/美式咖啡】【Coffee Latte Liquid/拿铁咖啡】【Coffee Mocha Liquid/摩卡咖啡】对应 Farmersrespite 的三种咖啡
-- Coffee Liquid 都可以使用 Create 中的流体储罐等管道实现运输与存储
-- 新增 Create 中【动力搅拌机】的配方：2 * 咖啡豆 + 333ml水 = 333ml 美式咖啡（烈焰人燃烧室普通加热条件）
-- 新增 Create 中【动力搅拌机】的配方：美式咖啡 + 奶 = 拿铁咖啡 （烈焰人燃烧室普通加热条件）
-- 新增 Create 中【动力搅拌机】的配方：拿铁咖啡 + 蜂蜜 = 摩卡咖啡 （烈焰人燃烧室普通加热条件）
-- 新增 Create 中【分液池】的方法：1 * 咖啡 = 333ml Coffee Liquid + 1 * 玻璃瓶
-- 新增 Farmersrespite 中【咖啡】的配方 以及 Create 中【注液器】的方法：333ml Coffee Liquid + 1 * 玻璃瓶 = 咖啡
-- 更改 Farmersrespite 中三种咖啡的物品名称
+## 2025-01-25 饮料与机械动力
+### Create（机械动力）与 farmersdelight（农夫乐事）和 Farmersrespite（农夫暇事）中各种饮料的兼容（不包括茶饮）
+- 新增流体：【美式咖啡液】【拿铁咖啡液】【摩卡咖啡液】【热可可液】【西瓜汁液】【西瓜汁+液】【苹果酒液】【苹果奶酒液】【苹果甜酒液】
+- 新增的流体都可以使用 Create 中的流体储罐等管道实现运输与存储
+- 新增 Create 中【动力搅拌机】的配方
+- 新增 Create 中【分液池】的方法
+- 新增 Create 中【注液器】的方法
+- 更改 农夫暇事的汉化文件以及原饮料名称
