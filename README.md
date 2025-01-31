@@ -25,3 +25,4 @@ FUFU自制兼容mod
 - 新增 Create 中【动力搅拌机】的配方：拿铁咖啡 + 蜂蜜 = 摩卡咖啡 （烈焰人燃烧室普通加热条件）
 - 新增 Create 中【分液池】的方法：1 * 咖啡 = 333ml Coffee Liquid + 1 * 玻璃瓶
 - 新增 Farmersrespite 中【咖啡】的配方 以及 Create 中【注液器】的方法：333ml Coffee Liquid + 1 * 玻璃瓶 = 咖啡
+- 更改 Farmersrespite 中三种咖啡的物品名称
