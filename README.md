@@ -21,4 +21,4 @@ FUFU自制兼容mod
 - 新增流体：【Coffee Liquid】【Coffee Liquid Bucket】，可如水桶一样放置，不可无限
 - Coffee Liquid 可以使用 Create 中的流体储罐等管道实现运输与存储
 - 新增 Create 中【动力搅拌机】的配方：2*咖啡豆 + 333ml水 = 333ml Coffee Liquid（烈焰人燃烧室普通加热条件）
-- 新增 Farmersrespite 中【咖啡】的配方：注液器 333ml Coffee Liquid + 1*玻璃瓶 = 1*咖啡
+- 新增 Farmersrespite 中【咖啡】的配方：注液器 333ml Coffee Liquid + 1*玻璃瓶 = 咖啡
