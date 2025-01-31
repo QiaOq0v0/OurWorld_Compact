@@ -1,8 +1,11 @@
 {
     "fluid.create.coffee_liq": "美式咖啡液",
     "fluid.create.long_coffee_liq": "拿铁咖啡液",
-    "fluid.create.strong_coffee_liq": "摩卡咖啡液"
-    "item.farmersrespite.coffee": "美式咖啡",
-    "item.farmersrespite.long_coffee": "拿铁咖啡",
-    "item.farmersrespite.strong_coffee": "摩卡咖啡"
+    "fluid.create.strong_coffee_liq": "摩卡咖啡液",
+    "fluid.create.hot_cocoa_liq": "热可可液",
+    "fluid.create.melon_juice_liq": "西瓜汁液",
+    "fluid.create.melon_juice_plus_liq": "西瓜汁plus液",
+    "fluid.create.apple_cider_liq": "苹果酒液",
+    "fluid.create.apple_milk_cider_liq": "苹果奶酒液",
+    "fluid.create.apple_sweet_cider_liq": "苹果甜酒液"
 }
